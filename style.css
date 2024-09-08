@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(135deg, #f06, #4a90e2); /* Градиентный фон */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
